@@ -1,7 +1,9 @@
 # Tetris3D
 Tetris3D made with C and OpenGL made when I was student in the University of Granada.
 
-Keyboard:
+## Controls
+
+### Keyboard
 
 h, H: help
 
@@ -15,7 +17,7 @@ s: drop
 
 p: pause
 
-Mouse:
+### Mouse
 
 move left: move the piece to the left
 
@@ -27,7 +29,7 @@ middle click: drop
 
 right click: menu
 
-Cameras:
+### Cameras
 
 1: Front view
 
