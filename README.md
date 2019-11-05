@@ -1,5 +1,6 @@
 # Tetris3D
 Tetris3D made with C and OpenGL made when I was student in the University of Granada.
+![alt text](https://github.com/amolinasalazar/Tetris3D/blob/master/screenshot.png "Tetris3D screenshot")
 
 ## Controls
 
